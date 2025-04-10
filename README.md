@@ -28,3 +28,5 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-souza-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/JoaoVictorSouza1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 
+
+<img align="center" alt="joão-python" src="./assets/img/profile.png" />
